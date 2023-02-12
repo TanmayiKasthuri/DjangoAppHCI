@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TanmayiDjangoDemoApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5298A2F7603E411BA3B037C5D4E6305E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_820A7912710F40D4889C00C3A1EAA76E }}
