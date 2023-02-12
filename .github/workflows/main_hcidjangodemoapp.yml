@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'HCIDjangoDemoapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3C63D8E15444D3E9A66DD230C7988C4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F551F00994174C448AECEB1E65A638BE }}
